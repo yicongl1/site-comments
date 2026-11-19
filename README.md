@@ -1,4 +1,4 @@
-#欢迎！
+# 欢迎！
 
 这个库存在的意义是开放它的讨论区，用于 **[giscus](https://giscus.app/zh-CN)** 生成我 **[个人网站](https://yicongl1.github.io)** 的评论区。
 
@@ -8,11 +8,15 @@
 
 评论支持markdown语言，还有表情！！
 
-你自己也可以试试看！不用搭建后台的评论区！
+你自己也可以试试看，不用搭建后台的评论区！
 
-##一些链接
+## 一些链接
 giscus：https://giscus.app/
+
 giscus的源码库：https://github.com/giscus/giscus
+
 如果你要克隆：https://github.com/giscus/giscus.git
+
 我的个人网站：https://yicongl1.github.io/
+
 我的讨论区：https://github.com/yicongl1/site-comments/discussions
